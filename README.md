@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=fkirewold&label=Profile%20views&color=0e75b6&style=flat" alt="fkirewold" />
 </p>
 
-
 - 🌱 I’m currently learning **Laravel**
+- 🎯 Always learning, always shipping!
 - 👯 I’m looking to collaborate on **[Open source / Freelance / Projects]**
 - 📫 reach me **fkirewold@gmail.com*
-
+<img src="https://your-image-url.com/grey-divider.png" alt="divider" width="100%" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fkirewold" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>

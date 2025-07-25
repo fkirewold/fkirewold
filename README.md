@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 <h3 align="center">Passionated Flutter Developer </h3>
 (https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+ <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Programming" width="40" height="40"/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fkirewold&label=Profile%20views&color=0e75b6&style=flat" alt="fkirewold" />
 </p>

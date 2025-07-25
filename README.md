@@ -11,7 +11,7 @@
  <p>🌱 I’m currently learning <strong>Laravel </strong></p>
  <p>🎯 Always learning, always shipping!</p>
 <p>👯 I’m looking to collaborate on <strong> [Open source / Freelance / Projects]</strong></strong></p>
- <p>📫 reach me <strong>fkirewold@gmail.com  </strong></p>
+ <p>📫 reach me <strong>[fkirewold@gmail.com](mailto:fkirewold@gmail.com) </strong></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fkirewold" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>

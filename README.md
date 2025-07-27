@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 <h3 align="center">Passionated Flutter Developer </h3>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Funny GIF" width="300" />
+  <img src="https://sl.bing.net/bpbqhFZVQOq" alt="Coding Image" width="300" />
 </p>
 
 <p align="left">

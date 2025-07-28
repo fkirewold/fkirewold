@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 <h3 align="center">Passionated Flutter Developer </h3>
-<h4>Hi there 👋  
-I'm Fkirewold, a passionate developer who codes not for financial rewards, but for the joy of creating, learning, and solving real-world problems through technology.
+<h4>Passionate Mobile App Developer who codes not for financial rewards, but for the joy of creating, learning, and solving real-world problems through technology.
 </h4>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Image" width="300" />

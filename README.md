@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 <div align="center">
-  <h3>💙 Passionate Mobile App Developer</h3>
-  <p><em>Who codes not for financial rewards, but for the joy of creating, learning, and solving real-world problems through technology.</em></p>
+  <h3 style="margin-bottom: 0;">💙 <span style="color:#007acc;">Passionate Mobile App Developer</span></h3>
+  <p><em><strong style="color:#555;">Who codes not for financial rewards, but for the joy of creating, learning, and solving real-world problems through technology.</strong></em></p>
 </div>
+
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Image" width="300" />

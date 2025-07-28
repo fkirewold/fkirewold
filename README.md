@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 <h3 align="center">Passionated Flutter Developer </h3>
-<h4>Passionate Mobile App Developer who codes not for financial rewards, but for the joy of creating, learning, and solving real-world problems through technology.
-</h4>
+<div align="center">
+  <h3>💙 Passionate Mobile App Developer</h3>
+  ![Mobile Dev](https://img.shields.io/badge/Role-Mobile_App_Developer-blue?style=flat-square&logo=flutter)
+  <p><em>Who codes not for financial rewards, but for the joy of creating, learning, and solving real-world problems through technology.</em></p>
+</div>
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Image" width="300" />
 </p>

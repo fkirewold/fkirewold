@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 <div align="center">
   <h3>💙 Passionate Mobile App Developer</h3>
-  ![Mobile Dev](https://img.shields.io/badge/Role-Mobile_App_Developer-blue?style=flat-square&logo=flutter)
   <p><em>Who codes not for financial rewards, but for the joy of creating, learning, and solving real-world problems through technology.</em></p>
 </div>
 

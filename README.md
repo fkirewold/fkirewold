@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
-<h3 align="center">Passionated Flutter Developer </h3>
 <div align="center">
   <h3>💙 Passionate Mobile App Developer</h3>
   ![Mobile Dev](https://img.shields.io/badge/Role-Mobile_App_Developer-blue?style=flat-square&logo=flutter)

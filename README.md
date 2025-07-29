@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 <div align="center">
   <h3 style="margin-bottom: 0;">💙 <span style="color:#007acc;">Passionate Mobile App Developer</span></h3>
-  <p><em><strong style="color:#555;">Who codes not for financial rewards, but for the joy of creating, learning, and solving real-world problems through technology.</strong></em></p>
+  <p><em><strong style="color:#555;">Who codes not only for financial rewards, but also for the joy of creating, learning, and solving real-world problems through technology.</strong></em></p>
 </div>
 
 

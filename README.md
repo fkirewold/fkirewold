@@ -7,7 +7,9 @@
 
 <table>
   <tr>
-   
+        <td width="50%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Image" width="100%" />
+    </td>
     <td width="50%">
       <h2>👋 About Me</h2>
       <p>
@@ -16,9 +18,7 @@
         I'm excited to learn and apply best practices to create <strong>secure and reliable apps</strong>.
       </p>
     </td>
-     <td width="50%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Image" width="100%" />
-    </td>
+
   </tr>
 </table>
 

@@ -27,7 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=fkirewold&label=Profile%20views&color=0e75b6&style=flat" alt="fkirewold" />
 </p>
 
- <p>🌱 I’m currently learning <strong>Laravel </strong></p>
  <p>🎯 Always learning, always shipping!</p>
 <p>👯 I’m looking to collaborate on <strong> [Open source / Freelance / Projects]</strong></strong></p>
 <p>

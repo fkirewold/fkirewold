@@ -9,9 +9,10 @@
     <td width="50%">
       <h2>👋 About Me</h2>
       <p>
-        I'm a passionate mobile app developer, currently focused on building clean and user-friendly applications using Flutter. <br><br>
-        Recently, I've developed a strong curiosity for <strong>mobile app security</strong> — including secure authentication, data encryption, and protection against common vulnerabilities. <br><br>
-        I'm excited to learn and apply best practices to create <strong>secure and reliable apps</strong>.
+        I'm a passionate mobile app developer dedicated to building clean, testable, and secure applications using Flutter. <br><br>
+        I follow a <strong>Test-Driven Development (TDD)</strong> approach to ensure code quality, maintainability, and reliability. <br><br>
+        I’m also deeply interested in <strong>mobile app security</strong> — focusing on secure authentication, data encryption, and preventing common vulnerabilities. <br><br>
+        My goal is to craft mobile apps that are not only functional and beautiful but also <strong>secure and robust by design</strong>.
       </p>
     </td>
     <td width="50%">
@@ -19,6 +20,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <p align="left">

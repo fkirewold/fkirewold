@@ -4,10 +4,8 @@
   <p><em><strong style="color:#555;">Who codes not only for financial rewards, but also for the joy of creating, learning, and solving real-world problems through technology.</strong></em></p>
 </div>
 
-
 <table>
   <tr>
-
     <td width="50%">
       <h2>👋 About Me</h2>
       <p>
@@ -16,12 +14,12 @@
         I'm excited to learn and apply best practices to create <strong>secure and reliable apps</strong>.
       </p>
     </td>
-            <td width="50%">
+    <td width="50%">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJhNWJqNzEybHhnOGY4cDcwbXlmdTQ1d3BiaW9sbXMydGhpcTRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Image" width="100%" />
     </td>
-
   </tr>
 </table>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fkirewold&label=Profile%20views&color=0e75b6&style=flat" alt="fkirewold" />

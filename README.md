@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fkirewold&label=Profile%20views&color=0e75b6&style=flat" alt="fkirewold" />
 </p>
-
+</div>
  <p>🎯 Always learning, always shipping!</p>
 <p>👯 I’m looking to collaborate on <strong> [Open source / Freelance / Projects]</strong></strong></p>
 <p>
@@ -52,4 +52,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 </p>
-</div>
+

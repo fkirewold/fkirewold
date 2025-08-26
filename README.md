@@ -26,8 +26,7 @@
 </div>
  <p>🎯 Always learning, always shipping!</p>
 <p>👯 I’m looking to collaborate on <strong> [Open source / Freelance / Projects]</strong></strong></p>
-<p>
-  Reach me <a href="mailto:fkirewold@gmail.com">fkirewold@gmail.com</a>
+<p>Reach me <a href="mailto:fkirewold@gmail.com">fkirewold@gmail.com</a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

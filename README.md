@@ -3,7 +3,6 @@
   <h3 style="margin-bottom: 0;">💙 <span style="color:#007acc;">Passionate Mobile App Developer</span></h3>
   <p><em><strong style="color:#555;">Who codes not only for financial rewards, but also for the joy of creating, learning, and solving real-world problems through technology.</strong></em></p>
 </div>
-
 <div align="center"">
 <table>
   <tr>

@@ -28,7 +28,7 @@
 <p>Reach me out here.... <a href="mailto:fkirewold@gmail.com">fkirewold@gmail.com</a>
 </p>
 <div align="center">
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3> -->
 <!-- <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>

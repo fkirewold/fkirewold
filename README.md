@@ -9,7 +9,7 @@
     <td width="50%">
       <h2>👋 About Me</h2>
       <p>
-        I'm a passionate mobile app developer dedicated to building clean, testable, and secure applications using Flutter. <br><br>
+        I am a passionate mobile app developer dedicated to building clean, testable, and secure applications using Flutter. <br><br>
         I follow a <strong>Test-Driven Development (TDD)</strong> approach to ensure code quality, maintainability, and reliability. <br><br>
         My goal is to craft mobile apps that are not only functional and beautiful but also <strong>secure and robust by design</strong>.
       </p>

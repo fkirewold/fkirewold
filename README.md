@@ -43,4 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 </p> -->
 </div>
-[(https://raw.githubusercontent.com/USERNAME/REPO/main/screenshot.png)](https://github.com/fkirewold/fkirewold/blob/main/photo_6188303805267953081_y%20(1).jpg)
+<h3> Dev Meme <h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fkirewold/fkirewold/main/photo_5855240116644202349.jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/fkirewold/fkirewold/main/photo_6188303805267953081_y.jpg" width="45%" />
+</div>

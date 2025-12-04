@@ -44,9 +44,7 @@
 </p> -->
 </div>
 <h3> Dev Meme 😂 <h3>
-<div>
+<div style="display: flex; justify-content: center; gap: 40px;">
   <img src="https://raw.githubusercontent.com/fkirewold/fkirewold/main/photo_6188303805267953081_y.jpg" width="45%" />
-</div>
-<div >
   <img src="https://raw.githubusercontent.com/fkirewold/fkirewold/main/photo_5855240116644202349.jpg" width="45%" />
 </div>

@@ -48,14 +48,14 @@
   <img 
     src="https://raw.githubusercontent.com/fkirewold/fkirewold/main/photo_6188303805267953081_y.jpg" 
     style="margin-bottom: 30px;" 
-    width="45%" 
+    //width="45%" 
   />
 </div>
 
 <div>
-  <img 
+  <!-- <img 
     src="https://raw.githubusercontent.com/fkirewold/fkirewold/main/photo_5855240116644202349.jpg" 
     width="45%" 
-  />
+  /> -->
 </div>
 

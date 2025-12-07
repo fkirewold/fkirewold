@@ -50,12 +50,11 @@
     style="margin-bottom: 30px;" 
     //width="45%" 
   />
-</div>
-
-<div>
   <!-- <img 
     src="https://raw.githubusercontent.com/fkirewold/fkirewold/main/photo_5855240116644202349.jpg" 
     width="45%" 
   /> -->
 </div>
+
+
 

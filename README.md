@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 <div align="center">
-  <h3 style="margin-bottom: 0;">💙 <span style="color:#007acc;">Passionate Mobile App Developer</span></h3>
+  <h3 style="margin-bottom: 0;">💙 <span style="color:#007acc;">Passionate FullStack Developer</span></h3>
   <p><em><strong style="color:#555;">Who codes not only for financial rewards, but also for the joy of creating, learning, and solving real-world problems through technology.</strong></em></p>
 </div>
 <div align="center"">
@@ -9,7 +9,7 @@
     <td width="50%">
       <h2>👋 About Me</h2>
       <p>
-        I am a passionate mobile app developer dedicated to building clean, testable, and secure applications using Flutter. <br><br>
+        I am a passionate Full stack Mobile App Developer dedicated to building clean, testable, and secure applications using Flutter and Node js. <br><br>
         I follow a <strong>Test-Driven Development (TDD)</strong> approach to ensure code quality, maintainability, and reliability. <br><br>
         My goal is to craft mobile apps that are not only functional and beautiful but also <strong>secure and robust by design</strong>.
       </p>

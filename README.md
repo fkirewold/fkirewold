@@ -26,24 +26,31 @@ My goal is to create applications that are:
 ## 🛠 Tech Stack
 
 ### 📱 Mobile Development
-- Flutter  
-- Dart  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="Dart"/>
+</p>
 
 ### 🌐 Backend Development
-- Node.js  
-- Express.js  
-- REST API Design  
-- Authentication & Authorization  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45" alt="GraphQL"/>
+</p>
 
 ### 🗄 Database & Caching
-- MongoDB  
-- Redis  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="Redis"/>
+</p>
 
 ### ⚙ DevOps & Tools
-- Docker  
-- Git  
-- Postman  
-- Linux  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
+</p>
 
 ---
 
@@ -52,16 +59,6 @@ My goal is to create applications that are:
 - API versioning & microservices patterns  
 - Performance optimization  
 - Production deployment using Docker  
-
----
-
-## 🤝 Collaboration
-Open to:
-- Open Source Contributions  
-- Freelance Projects  
-- Backend & Mobile Development Contracts  
-
----
 
 ## 📫 Contact
 📧 fkirewold@gmail.com  

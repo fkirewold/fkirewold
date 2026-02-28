@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 
 <div align="center">
-  <h3>🚀 Full Stack Mobile Developer</h3>
+  <h3> Full Stack Mobile Developer</h3>
   <p><em>Building scalable mobile and backend systems with clean architecture and production-ready practices.</em></p>
 </div>
 

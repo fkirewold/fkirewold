@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Full Stack Mobile Developer** focused on building secure, scalable, and maintainable applications from frontend to backend.
 
@@ -60,7 +60,3 @@ Open to:
 📧 fkirewold@gmail.com  
 
 ---
-
-<div align="center">
-  <p>🎯 Always building. Always improving.</p>
-</div>

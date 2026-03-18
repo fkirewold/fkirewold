@@ -46,6 +46,7 @@ My goal is to create applications that are:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Strapi CMS](https://img.shields.io/badge/Strapi%20CMS-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
 
 ---
 ##  What I’m Currently Focused On

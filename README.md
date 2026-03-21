@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 
 <div align="center">
-  <h3> Full Stack Mobile Developer</h3>
-  <p><em>Building scalable mobile and backend systems with clean architecture and production-ready practices.</em></p>
+  <h3>Full Stack Mobile Developer</h3>
+  <p><em>Building scalable mobile apps and backend systems with clean architecture.</em></p>
 </div>
 
 ---
 
 ## About Me
 
-I am a **Full Stack Mobile Developer** focused on building secure, scalable, and maintainable applications from frontend to backend.
+I am a **Full Stack Mobile Developer** focused on building secure, scalable, and maintainable applications.
 
-I specialize in developing cross-platform mobile apps with Flutter and designing robust backend systems using Node.js and Express.
+I develop cross-platform apps using **Flutter** and build backend systems with **Node.js**, **Express**, and **Strapi (Headless CMS)**.
 
-I follow clean architecture principles and apply Test-Driven Development (TDD) when building real-world systems.
+I follow clean architecture and apply best practices like **TDD** to deliver production-ready solutions.
 
 My goal is to create applications that are:
 - Secure by design  

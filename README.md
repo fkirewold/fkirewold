@@ -4,13 +4,6 @@
   <h3>Full Stack Mobile Developer</h3>
   <p><em>Building scalable mobile apps and backend systems with clean architecture.</em></p>
 </div>
-
----
-
-## About Me
-
-I am a **Full Stack Mobile Developer** focused on building secure, scalable, and maintainable applications.
-
 I develop cross-platform apps using **Flutter** and build backend systems with **Node.js**, **Express**, and **Strapi (Headless CMS)**.
 
 I follow clean architecture and apply best practices like **TDD** to deliver production-ready solutions.

@@ -1,77 +1,118 @@
-<div align="center">
-  <h1 class="pop-name">
-    <span>F</span><span>k</span><span>r</span><span>i</span><span>e</span><span>w</span><span>o</span><span>l</span><span>d</span>
-    <span> </span>
-    <span>Z</span><span>e</span><span>r</span><span>i</span><span>h</span><span>u</span><span>n</span>
-  </h1>
-  <h2 class="fade-title">Full Stack Mobile App Developer</h2>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>README Animation</title>
 
 <style>
-  .pop-name {
-    display: inline-block;
-    font-size: 2.5em;
-    font-weight: bold;
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #0f172a;
+    color: #fff;
   }
 
-  .pop-name span {
+  h1 {
+    margin-top: 40px;
+    font-size: 2.5rem;
+  }
+
+  .name span {
     display: inline-block;
     opacity: 0;
-    transform: scale(0.5);
+    transform: scale(0);
     animation: pop 0.5s forwards;
   }
 
+  /* Delay each letter */
+  .name span:nth-child(1) { animation-delay: 0.1s; }
+  .name span:nth-child(2) { animation-delay: 0.2s; }
+  .name span:nth-child(3) { animation-delay: 0.3s; }
+  .name span:nth-child(4) { animation-delay: 0.4s; }
+  .name span:nth-child(5) { animation-delay: 0.5s; }
+  .name span:nth-child(6) { animation-delay: 0.6s; }
+  .name span:nth-child(7) { animation-delay: 0.7s; }
+  .name span:nth-child(8) { animation-delay: 0.8s; }
+  .name span:nth-child(9) { animation-delay: 0.9s; }
+  .name span:nth-child(10){ animation-delay: 1s; }
+  .name span:nth-child(11){ animation-delay: 1.1s; }
+  .name span:nth-child(12){ animation-delay: 1.2s; }
+  .name span:nth-child(13){ animation-delay: 1.3s; }
+  .name span:nth-child(14){ animation-delay: 1.4s; }
+  .name span:nth-child(15){ animation-delay: 1.5s; }
+  .name span:nth-child(16){ animation-delay: 1.6s; }
+  .name span:nth-child(17){ animation-delay: 1.7s; }
+
   @keyframes pop {
-    to {
+    0% {
+      opacity: 0;
+      transform: scale(0.3);
+    }
+    80% {
+      transform: scale(1.2);
+    }
+    100% {
       opacity: 1;
       transform: scale(1);
     }
   }
 
-  /* Sequential delays for each letter */
-  .pop-name span:nth-child(1) { animation-delay: 0s; }
-  .pop-name span:nth-child(2) { animation-delay: 0.1s; }
-  .pop-name span:nth-child(3) { animation-delay: 0.2s; }
-  .pop-name span:nth-child(4) { animation-delay: 0.3s; }
-  .pop-name span:nth-child(5) { animation-delay: 0.4s; }
-  .pop-name span:nth-child(6) { animation-delay: 0.5s; }
-  .pop-name span:nth-child(7) { animation-delay: 0.6s; }
-  .pop-name span:nth-child(8) { animation-delay: 0.7s; }
-  .pop-name span:nth-child(9) { animation-delay: 0.8s; }
-  .pop-name span:nth-child(10) { animation-delay: 0.9s; }
-  .pop-name span:nth-child(11) { animation-delay: 1s; }
-  .pop-name span:nth-child(12) { animation-delay: 1.1s; }
-  .pop-name span:nth-child(13) { animation-delay: 1.2s; }
-  .pop-name span:nth-child(14) { animation-delay: 1.3s; }
-  .pop-name span:nth-child(15) { animation-delay: 1.4s; }
-  .pop-name span:nth-child(16) { animation-delay: 1.5s; }
-  .pop-name span:nth-child(17) { animation-delay: 1.6s; }
-
-  /* Subtitle fade-in after name animation */
-  .fade-title {
-    opacity: 0;
-    animation: fadeIn 1s forwards;
-    animation-delay: 2.8s; /* adjust timing to match name animation */
-    font-size: 1.5em;
+  h3 {
+    margin-top: 20px;
     font-weight: normal;
+    color: #94a3b8;
   }
 
-  @keyframes fadeIn {
-    to { opacity: 1; }
+  p {
+    color: #cbd5f5;
+  }
+
+  .content {
+    max-width: 700px;
+    margin: auto;
+    text-align: left;
+    margin-top: 30px;
   }
 </style>
+</head>
 
+<body>
+
+<h1>
+  Hi 👋, I'm 
+  <span class="name">
+    <span>F</span><span>k</span><span>i</span><span>r</span><span>e</span><span>w</span><span>o</span><span>l</span><span>d</span>
+    <span> </span>
+    <span>Z</span><span>e</span><span>r</span><span>i</span><span>h</span><span>u</span><span>n</span>
+  </span>
+</h1>
+
+<div>
+  <h3>Full Stack Mobile Developer</h3>
   <p><em>Building scalable mobile apps and backend systems with clean architecture.</em></p>
 </div>
-I develop cross-platform apps using **Flutter** and build backend systems with **Node.js**, **Express**, and **Strapi (Headless CMS)**.
 
-I follow clean architecture and apply best practices like **TDD** to deliver production-ready solutions.
+<div class="content">
+  <p>
+    I develop cross-platform apps using <strong>Flutter</strong> and build backend systems with 
+    <strong>Node.js</strong>, <strong>Express</strong>, and <strong>Strapi (Headless CMS)</strong>.
+  </p>
 
-My goal is to create applications that are:
-- Secure by design  
-- Scalable in production  
-- Clean and maintainable  
-- Performance-optimized  
+  <p>
+    I follow clean architecture and apply best practices like <strong>TDD</strong> to deliver production-ready solutions.
+  </p>
+
+  <p>My goal is to create applications that are:</p>
+  <ul>
+    <li>Secure by design</li>
+    <li>Scalable in production</li>
+    <li>Clean and maintainable</li>
+    <li>Performance-optimized</li>
+  </ul>
+</div>
+
+</body>
+</html> 
 
 ---
 

@@ -1,7 +1,66 @@
-<h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
-
 <div align="center">
-  <h3>Full Stack Mobile Developer</h3>
+  <h1 class="pop-name">
+    <span>F</span><span>k</span><span>r</span><span>i</span><span>e</span><span>w</span><span>o</span><span>l</span><span>d</span>
+    <span> </span>
+    <span>Z</span><span>e</span><span>r</span><span>i</span><span>h</span><span>u</span><span>n</span>
+  </h1>
+  <h2 class="fade-title">Full Stack Mobile App Developer</h2>
+</div>
+
+<style>
+  .pop-name {
+    display: inline-block;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+
+  .pop-name span {
+    display: inline-block;
+    opacity: 0;
+    transform: scale(0.5);
+    animation: pop 0.5s forwards;
+  }
+
+  @keyframes pop {
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  /* Sequential delays for each letter */
+  .pop-name span:nth-child(1) { animation-delay: 0s; }
+  .pop-name span:nth-child(2) { animation-delay: 0.1s; }
+  .pop-name span:nth-child(3) { animation-delay: 0.2s; }
+  .pop-name span:nth-child(4) { animation-delay: 0.3s; }
+  .pop-name span:nth-child(5) { animation-delay: 0.4s; }
+  .pop-name span:nth-child(6) { animation-delay: 0.5s; }
+  .pop-name span:nth-child(7) { animation-delay: 0.6s; }
+  .pop-name span:nth-child(8) { animation-delay: 0.7s; }
+  .pop-name span:nth-child(9) { animation-delay: 0.8s; }
+  .pop-name span:nth-child(10) { animation-delay: 0.9s; }
+  .pop-name span:nth-child(11) { animation-delay: 1s; }
+  .pop-name span:nth-child(12) { animation-delay: 1.1s; }
+  .pop-name span:nth-child(13) { animation-delay: 1.2s; }
+  .pop-name span:nth-child(14) { animation-delay: 1.3s; }
+  .pop-name span:nth-child(15) { animation-delay: 1.4s; }
+  .pop-name span:nth-child(16) { animation-delay: 1.5s; }
+  .pop-name span:nth-child(17) { animation-delay: 1.6s; }
+
+  /* Subtitle fade-in after name animation */
+  .fade-title {
+    opacity: 0;
+    animation: fadeIn 1s forwards;
+    animation-delay: 2.8s; /* adjust timing to match name animation */
+    font-size: 1.5em;
+    font-weight: normal;
+  }
+
+  @keyframes fadeIn {
+    to { opacity: 1; }
+  }
+</style>
+
   <p><em>Building scalable mobile apps and backend systems with clean architecture.</em></p>
 </div>
 I develop cross-platform apps using **Flutter** and build backend systems with **Node.js**, **Express**, and **Strapi (Headless CMS)**.

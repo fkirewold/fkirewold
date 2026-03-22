@@ -1,41 +1,18 @@
+<h1 align="center">Hi 👋, I'm Fkirewold Zerihun</h1>
 
-
-<h1>
-  Hi 👋, I'm 
-  <span class="name">
-    <span>F</span><span>k</span><span>i</span><span>r</span><span>e</span><span>w</span><span>o</span><span>l</span><span>d</span>
-    <span> </span>
-    <span>Z</span><span>e</span><span>r</span><span>i</span><span>h</span><span>u</span><span>n</span>
-  </span>
-</h1>
-
-<div>
+<div align="center">
   <h3>Full Stack Mobile Developer</h3>
   <p><em>Building scalable mobile apps and backend systems with clean architecture.</em></p>
 </div>
+I develop cross-platform apps using **Flutter** and build backend systems with **Node.js**, **Express**, and **Strapi (Headless CMS)**.
 
-<div class="content">
-  <p>
-    I develop cross-platform apps using <strong>Flutter</strong> and build backend systems with 
-    <strong>Node.js</strong>, <strong>Express</strong>, and <strong>Strapi (Headless CMS)</strong>.
-  </p>
+I follow clean architecture and apply best practices like **TDD** to deliver production-ready solutions.
 
-  <p>
-    I follow clean architecture and apply best practices like <strong>TDD</strong> to deliver production-ready solutions.
-  </p>
-
-  <p>My goal is to create applications that are:</p>
-  <ul>
-    <li>Secure by design</li>
-    <li>Scalable in production</li>
-    <li>Clean and maintainable</li>
-    <li>Performance-optimized</li>
-  </ul>
-</div>
-
-</body>
-</html> 
-
+My goal is to create applications that are:
+- Secure by design  
+- Scalable in production  
+- Clean and maintainable  
+- Performance-optimized
 ---
 
 ## 💻 Tech Stack:

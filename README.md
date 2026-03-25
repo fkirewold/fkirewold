@@ -4,7 +4,7 @@
   <h3>Full Stack Mobile Developer</h3>
   <p><em>Building scalable mobile apps and backend systems with clean architecture.</em></p>
 </div>
-I develop cross-platform apps using **Flutter** and build backend systems with **Node.js**, **Express**, and **Strapi (Headless CMS)**.
+I develop cross-platform apps using <strong>Flutter</strong> and build backend systems with <strong>Node.js</strong>,<strong>Express.js</strong> and <strong> Strapi CMS Headless</strong>
 
 I follow clean architecture and apply best practices like **TDD** to deliver production-ready solutions.
 

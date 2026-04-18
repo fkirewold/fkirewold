@@ -45,7 +45,8 @@ My goal is to create applications that are:
 - Designing scalable backend architectures  
 - API versioning & microservices patterns  
 - Performance optimization  
-- Production deployment using Docker  
+- Production deployment using Docker
+- Deploy both Mobile app and Web apps to Production  
 
 ---
 
